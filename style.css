@@ -5,7 +5,7 @@
 
 body{
 
-    .quicksand-<uniquifier> {
+ background-color: var(--cor-de-fundo);
       font-family: "Quicksand", sans-serif;
       font-optical-sizing: auto;
       font-weight: 500;
