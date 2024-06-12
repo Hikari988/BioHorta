@@ -1,11 +1,9 @@
 :root{
-    --cor-de-fundo: 255, 246, 239
-    )
+    --cor-de-fundo: 
 }
-
 body{
 
- background-color: var(--cor-de-fundo);
+      background-color: var(--cor-de-fundo);
       font-family: "Quicksand", sans-serif;
       font-optical-sizing: auto;
       font-weight: 500;
@@ -20,4 +18,10 @@ header {
     justify-content: space-evenly;
     align-items: center;
     background-color: rgb(89, 211, 126);
+}
+
+.introducao{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
