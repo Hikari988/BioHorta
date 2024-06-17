@@ -18,7 +18,8 @@ header {
     justify-content: space-evenly;
     align-items: center;
     background-color: rgb(89, 211, 126);
-    padding: 10px;
+    padding: 5px;
+    margin: 0%;
 }
 
 .introducao{
