@@ -20,6 +20,9 @@ header {
     background-color: rgb(89, 211, 126);
 }
 
+.titulo
+   background-color: #AC8AC0
+
 .introducao{
     display: flex;
     justify-content: space-evenly;
