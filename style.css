@@ -29,10 +29,15 @@ header {
 
 .hortinha{
     width: 45%;
+    display: flex;
     align-items: center;
 }
 
 .hortinha2{
     width: 45%;
     align-items: center;
+}
+
+.objetivo{
+    width: 45%;
 }
