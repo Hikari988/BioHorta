@@ -30,6 +30,7 @@ header {
 .hortinha{
     width: 45%;
     display: flex;
+    justify-content: space-evenly;
     align-items: center;
 }
 
