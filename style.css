@@ -26,3 +26,7 @@ header {
     justify-content: space-evenly;
     align-items: center;
 }
+
+.horta{
+    width: 25%;
+}
