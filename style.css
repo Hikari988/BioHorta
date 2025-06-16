@@ -17,7 +17,7 @@ header {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    background-color: rgb(89, 211, 126);
+    background-color: #597445;
     padding: 5px;
 }
 
@@ -45,5 +45,5 @@ footer{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    background-color: rgb(89, 211, 126);
+    background-color: rgb(#597445);
 }
